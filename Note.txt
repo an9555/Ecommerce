@@ -1,0 +1,43 @@
+https://www.youtube.com/watch?v=377AQ0y6LPA&t=1475s&ab_channel=JavaScriptMastery
+Stripe
+React.js
+Commerce.js
+Materials UI
+
+//npm start
+
+Materials UI v4
+npm install @material-ui/core
+npm install @material-ui/icons
+
+Materials UI v5
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @fontsource/roboto
+npm install @mui/icons-material
+
+Commerce.js
+npm install @chec/commerce.js
+npm install -g @chec/cli
+
+
+Secret Key
+sk_5242029e833b16beea1c367d1242afe0c72d5c9e73df6
+
+Sandbox Secret Key
+sk_test_52420baf977473a34d2175d0e4f6b770376f8551fb2bb
+
+Public Key
+pk_52420bc54eaf57562ee67920f178d3a661d0cdff12474
+
+Sandbox Public Key
+pk_test_52420a8c300e5916ea11c62a46daae961614219994316
+
+---------
+
+Stripe Sandbox Public Key
+pk_test_51NFe2FAqHFIburn0eIgiUHveiolr5KdUGKrqGe7J2SXvYutx8Gg86kyjUIkCsXokMds2hbwJJ0jACcoxT7IHXVO400n0BuKu2f
+
+Stripe Sandbox Secret Key
+sk_test_51NFe2FAqHFIburn0w9NhRKqttb3eYSXguukozLQFPj3uGsS6o3mgNV9BNPetwX7XBrwkTBkfiVivWczJMfJjtY6v006imFmfB7
+03:12:44 / 03:29:10
